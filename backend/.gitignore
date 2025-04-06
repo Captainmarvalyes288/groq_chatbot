@@ -1,1 +1,39 @@
 venv/
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node
+node_modules/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Database
+*.sql
+*.sqlite
+
+# Backups
+*.bak
